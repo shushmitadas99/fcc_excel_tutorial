@@ -1,6 +1,6 @@
 # FreeCodeCamp Excel Tutorial
 
-### Link to the tutorial: [FCC_Excel_Tutorial](https://www.youtube.com/watch?v=Vl0H-qTclOg)
+### Tutorial Links: [FreeCodeCamp_Website](https://www.freecodecamp.org/news/learn-microsoft-excel/) | [YouTube_Excel_Tutorial](https://www.youtube.com/watch?v=Vl0H-qTclOg) | [Tutors_GitHub_Repo](https://github.com/shadsluiter/ExcelExamples)
 
 ### Some neat Excel tricks:
 
