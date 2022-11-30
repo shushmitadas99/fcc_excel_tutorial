@@ -15,5 +15,6 @@
 * Use ```sumif``` to add items togethger based on a condition
 * We use ```sort``` and ```filter``` functions for common database operations on Excel
 * Pivot table is a way to summarize a large group of data
+* ```vlookup``` table only works when the table is alphabetized, so we need to sort it
 
 #### ** Note: All the data used here is hypothetical and for tutorial purposes only.
